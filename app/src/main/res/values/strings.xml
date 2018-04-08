@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="exit">退出</string>
+    <string name="content_title">联系人详情</string>
+    <string name="edit">编辑</string>
+    <string name="delete">删除</string>
+    <string name="main_title">通讯录</string>
+    <string name="add">添加</string>
+    <string name="confirm">确认</string>
+</resources>
